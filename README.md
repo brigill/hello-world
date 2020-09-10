@@ -3,4 +3,4 @@
 Hi Humans!
 
 Brigill here, I like Python and PyCharm IDE.
-I've had tacos on mars and prefer them to earth tacos.
+I've had tacos on mars and prefer them over earth tacos.
