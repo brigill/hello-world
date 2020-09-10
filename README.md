@@ -1,2 +1,6 @@
 # hello-world
-Brigill's hello-world resp
+
+Hi Humans!
+
+Brigill here, I like Python and PyCharm IDE.
+I've had tacos on mars and prefer them over earth tacos.
